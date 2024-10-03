@@ -4,7 +4,7 @@ This Document Outlines the database design for a Tour Management System, which a
 
 
 
-**Team Members**
+Team Members
 Prachi Ganapatrao Pradhan -- 002339613
 Bhagyashri Avinash Pagar -- 002310690
 Shrutkeerti Dhananjay Sangolkar -- 002304742
